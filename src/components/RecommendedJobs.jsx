@@ -36,7 +36,6 @@ const RecommendedJobs = () => {
                 <Categories image="/images/healthcare.png" title="Healthcare" opening="1200" />
                 <Categories image="/images/education.png" title="Education" opening="1200" />
                 <Categories image="/images/marketing.png" title="Marketing" opening="1200" />
-                <Categories image="/images/retail.png" title="Retail" opening="1200" />
             </div>
           </div>
         </div>
